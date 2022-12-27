@@ -11,6 +11,6 @@ print(singer1)
 singer2 = make_album("Mao Ning",'Taoshengyijiu')
 print(singer2)
 
-singer1 = make_album("Qi Qin",'Wolf')
+singer3 = make_album("Qi Qin",'Wolf')
 print(singer3)
 
