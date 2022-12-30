@@ -14,10 +14,11 @@ class Restaurant:
     def open_restaurant(self):
         print(f"{self.restaurant_name.title()} is opening.")
 
-my_restaurant = Restaurant("alibaba","Chinese")
+my_restaurant1 = Restaurant("alibaba","Hanzhou")
+my_restaurant2 = Restaurant("tencent","Shenzhen")
+my_restaurant3 = Restaurant("sohu","Beijing")
 
-print(f"My restaurant's name is {my_restaurant.restaurant_name}.")
-print(f"My restaurant's cuisine type is {my_restaurant.cuisine_type}.")
 
-my_restaurant.describe_restaurant()
-my_restaurant.open_restaurant()
+my_restaurant1.describe_restaurant()
+my_restaurant2.describe_restaurant()
+my_restaurant3.describe_restaurant()
