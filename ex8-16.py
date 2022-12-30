@@ -1,5 +1,5 @@
 #Author: Alberthao
-#Topic: 测试不通的import方法
+#Topic: 测试不同的import方法
 
 # start from here
 #import printing_functions 
