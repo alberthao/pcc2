@@ -1,0 +1,3 @@
+In Python you can create a game.
+In Python you can simulate a car.
+In Python you can guess the number that people have.

@@ -28,5 +28,5 @@ while not my_lottery.win:
     my_lottery.roll_win()
     i+=1
     if my_lottery.win:
-        print("The ratio is ",1/i)
+        print("We have tried ",i," times.")
 
